@@ -33,4 +33,13 @@
   background-image: -ms-linear-gradient(left, red, orange, yellow, green, blue,indigo, violet, indigo, blue, green, yellow, orange, red);
   background-image: -khtml-linear-gradient(left, red, orange, yellow, green, blue,indigo, violet, indigo, blue, green, yellow, orange, red);
   background-image: linear-gradient(left, red, orange, yellow, green, blue,indigo, violet, indigo, blue, green, yellow, orange, red);
-  animation: magicGecko 0.5s forwards linear infinite; background-size: 50% auto; -webkit-background-clip: text; -moz-background-clip: text; -o-background-clip: text; -ms-background-clip: text; -khtml-background-clip: text; background-clip: text; color: transparent; }
+  animation: magicGecko 0.5s forwards linear infinite; 
+  background-size: 50% auto;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -o-background-clip: text;
+  -ms-background-clip: text;
+  -khtml-background-clip: text;
+  background-clip: text;
+  color: transparent; 
+}
